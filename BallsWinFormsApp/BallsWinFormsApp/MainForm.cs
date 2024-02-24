@@ -1,6 +1,5 @@
 ﻿using Balls.Common;
 
-
 namespace BallsWinFormsApp
 {
     public partial class MainForm : Form

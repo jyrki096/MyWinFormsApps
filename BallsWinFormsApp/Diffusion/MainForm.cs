@@ -1,6 +1,5 @@
 using BillyardBalls;
 
-
 namespace Diffusion
 {
     public partial class mainForm : Form

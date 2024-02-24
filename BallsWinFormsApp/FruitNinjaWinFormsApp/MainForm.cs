@@ -1,5 +1,4 @@
-﻿using Balls.Common;
-using Timer = System.Windows.Forms.Timer;
+﻿using Timer = System.Windows.Forms.Timer;
 
 namespace FruitNinjaWinFormsApp
 {

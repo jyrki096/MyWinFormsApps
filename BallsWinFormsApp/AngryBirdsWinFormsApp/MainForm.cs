@@ -1,5 +1,3 @@
-using static System.Formats.Asn1.AsnWriter;
-
 namespace AngryBirdsWinFormsApp
 {
     public partial class mainForm : Form

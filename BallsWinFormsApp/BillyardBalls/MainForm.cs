@@ -1,5 +1,3 @@
-using Balls.Common;
-
 namespace BillyardBalls
 {
     public partial class mainForm : Form

@@ -1,8 +1,5 @@
 ﻿using Balls.Common;
 using BillyardBalls;
-using System.Drawing;
-using System.Windows.Forms;
-
 namespace Diffusion
 {
     public class RandomColoredBall : RandomMoveBall
