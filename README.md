@@ -13,8 +13,7 @@
   <li>Чистая архитектура</li>
 </ul>
 <h2>Изображения</h2>
-[url=https://postimg.cc/4m2m3FJp][img]https://i.postimg.cc/4m2m3FJp/Screenshot-175.png[/img][/url]
+<a href="https://postimg.cc/4m2m3FJp" target="_blank"><img src="https://i.postimg.cc/4m2m3FJp/Screenshot-175.png" alt="Screenshot-175"/></a><br/><br/>
+<a href="https://postimg.cc/xXW8vJNC" target="_blank"><img src="https://i.postimg.cc/xXW8vJNC/Screenshot-176.png" alt="Screenshot-176"/></a><br/><br/>
+<a href="https://postimg.cc/KKBzJGt5" target="_blank"><img src="https://i.postimg.cc/KKBzJGt5/Screenshot-177.png" alt="Screenshot-177"/></a><br/><br/>
 
-[url=https://postimg.cc/xXW8vJNC][img]https://i.postimg.cc/xXW8vJNC/Screenshot-176.png[/img][/url]
-
-[url=https://postimg.cc/KKBzJGt5][img]https://i.postimg.cc/KKBzJGt5/Screenshot-177.png[/img][/url]
