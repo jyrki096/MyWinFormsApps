@@ -1,5 +1,5 @@
-using GeniyIdiot.Common;
-using static System.Windows.Forms.VisualStyles.VisualStyleElement.Header;
+п»їusing GeniyIdiot.Common;
+
 
 
 namespace GeniyIdiotWinFormsApp
@@ -67,8 +67,8 @@ namespace GeniyIdiotWinFormsApp
         private void restartButton_Click(object sender, EventArgs e)
         {
             DialogResult dialog = MessageBox.Show(
-             "Вы действительно хотите начать новую игру? Текущий прогресс может быть потерян!!!",
-             "Начало новой игры",
+             "Р’С‹ СѓРІРµСЂРµРЅС‹, С‡С‚Рѕ С…РѕС‚РёС‚Рµ РЅР°С‡Р°С‚СЊ РЅРѕРІСѓСЋ РёРіСЂСѓ?",
+             "РќРѕРІР°СЏ РёРіСЂР°",
              MessageBoxButtons.YesNo,
              MessageBoxIcon.Warning
             );
@@ -100,8 +100,8 @@ namespace GeniyIdiotWinFormsApp
         private void exitButton_Click(object sender, EventArgs e)
         {
             DialogResult dialog = MessageBox.Show(
-             "Вы действительно хотите выйти из программы?",
-             "Завершение программы",
+             "Р’С‹ СѓРІРµСЂРµРЅС‹, С‡С‚Рѕ С…РѕС‚РёС‚Рµ РІС‹Р№С‚Рё?",
+             "Р’С‹С…РѕРґ",
              MessageBoxButtons.YesNo,
              MessageBoxIcon.Warning
             );
@@ -114,7 +114,7 @@ namespace GeniyIdiotWinFormsApp
         private void timer1_Tick(object sender, EventArgs e)
         {
 
-            timerText.Text = $"Осталось времени на ответ: {timeLeft} секунд";
+            timerText.Text = $"РћСЃС‚Р°Р»РѕСЃСЊ РІСЂРµРјРµРЅРё: {timeLeft} СЃРµРєСѓРЅРґ";
             timeLeft -= 1;
 
             if (timeLeft == -1)
@@ -139,8 +139,8 @@ namespace GeniyIdiotWinFormsApp
         private void retry_Click(object sender, EventArgs e)
         {
             DialogResult dialog = MessageBox.Show(
-             "Вы действительно начать с начала? Текущий прогресс может быть потерян!!!",
-             "Сброс текущих результатов",
+             "Р’С‹ СѓРІРµСЂРµРЅС‹, С‡С‚Рѕ С…РѕС‚РёС‚Рµ РЅР°С‡Р°С‚СЊ СЃРЅР°С‡Р°Р»Р°?",
+             "РќР°С‡Р°С‚СЊ Р·Р°РЅРѕРІРѕ",
              MessageBoxButtons.YesNo,
              MessageBoxIcon.Warning
             );
